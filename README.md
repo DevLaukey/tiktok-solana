@@ -50,7 +50,7 @@ To get started with `tiktok-solana`, ensure you have the following installed:
 Follow these steps to set up the project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tiktok-solana.git
+git clone https://github.com/DevLaukey/tiktok-solana.git
 
 # Navigate into the project directory
 cd tiktok-solana
@@ -87,5 +87,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 The project currently does not specify a license. Please contact the repository owner for more information.
 
 ## Contact
-For any inquiries or further information about `tiktok-solana`, please reach out via the issues section of the repository or contact [Your Name/Email].
+For any inquiries or further information about `tiktok-solana`, please reach out via the issues section of the repository or contact [victor.mburu.mwaura@gmail.com].
 ```
